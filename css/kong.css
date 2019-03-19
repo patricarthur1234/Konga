@@ -1,0 +1,73 @@
+
+
+#link a{
+    color: white;
+    font-size: 13px;
+    padding: 18px 20px;
+}
+#link input{
+    width: 530px;
+    padding: 10px;
+    border: transparent;
+    border-radius: 5px;
+    margin-top: 12px;
+    line-height: 17px;
+}
+
+//.card img{width: 50%; display: block; margin: auto;}
+
+@media (max-width:576px){
+    #link input{
+        width: 350px;
+        padding: 8px;
+        border: transparent;
+        border-radius: 4px;
+        margin-top: 12px;
+        line-height: 17px;
+    }
+    }
+    
+#we{
+    background-color: orange;
+    border: transparent;
+    border-radius: 4px;
+    height: 37px;
+    margin-left: -5px;
+    width: 45px;
+    margin-top: 12px;
+}
+
+#kong-button{
+    background-color: rgb(57, 185, 57);
+    padding: 10px;
+    font-size: 12px;
+    width: 120px;
+    border: transparent;
+    color: white;
+    height: 44px;
+    margin-top: 6px;
+}
+
+#link4 a{
+    color: white;
+    font-size: 13px;
+    padding: 4px 28px 5px;
+}
+
+.carousel img{
+        height: 240px;
+}
+/*for carousel margin*/
+//.carousel{
+    margin-right: 50px;
+    margin-left:50px;
+}
+/*for carousel media query*/
+@media (max-width:576px){
+    .carousel{
+        margin-right: 0px;
+        margin-left:0px;
+    }
+     
+}
+
